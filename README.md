@@ -1,10 +1,10 @@
-Hi 👋 My name is Alan Juárez
+Holaaa 👋 Me llamo Alan Juárez
 ============================
 
-Estudiante de Ingeniería en Sistemas Computacionales
+Egresado de Ingeniería en Sistemas Computacionales
 ----------------------------------------------------
 
-Me gusta el desarrollo web cómo móvil en el ecosistema de .NET, llevo aproximadamente un año practicando con Blazor WebAssembly y Xamarin.Forms
+Me gusta el desarrollo web y móvil en el ecosistema de .NET, llevo aproximadamente más de un año practicando con Blazor WebAssembly y Xamarin.Forms actualmente .NET MAUI
 
 * 🌍  I'm based in México
 * 🧠  I'm learning Blazor, AspNetCore y DotNetMaui
