@@ -1,14 +1,16 @@
 Holaaa 👋 Me llamo Alan Juárez
 ============================
 
-Egresado de Ingeniería en Sistemas Computacionales
+.NET Developer | Messaging service developer (SMS/RCS).
 ----------------------------------------------------
 
-Me gusta el desarrollo web y móvil en el ecosistema de .NET, llevo aproximadamente más de un año practicando con Blazor WebAssembly y Xamarin.Forms actualmente .NET MAUI
+Soy un desarrollador Full Stack Jr. con más de año y medio de experiencia en el desarrollo de sistemas y servicios web. Recientemente he completado mi formación en Ingeniería en Sistemas Computacionales, y estoy comprometido con el aprendizaje continuo y el crecimiento en mi área de especialización.
 
-* 🌍  I'm based in México
-* 🧠  I'm learning Blazor, AspNetCore y DotNetMaui
-* 🤝  I'm open to collaborating on Interesting projects
+Mi ambición profesional es evolucionar y destacarme como experto en la creación de soluciones tecnológicas innovadoras que respondan a las exigencias del mercado. Tengo una gran motivación por abordar retos técnicos y trabajar en conjunto con equipos interdisciplinarios para ofrecer resultados que contribuyan significativamente al progreso y éxito de las empresas en las que colabore.
+
+
+El ecosistema en el que tengo más experiencia es .NET destacándome en tecnologías como Asp.Net Core, Entity Framework Core, Blazor Webassembly y NetMaui. Mi enfoque se centra en la implementación de metodologías de desarrollo avanzadas como Arquitectura Limpia y Diseño Dirigido por Dominio (DDD), así como la adhesión a los Principios SOLID. De igual manera hago uso de patrones de diseño que mejoran la estructura y la eficiencia del código, asegurando que las soluciones de software sean robustas, mantenibles y escalables.
+
 
 ### Skills
 
